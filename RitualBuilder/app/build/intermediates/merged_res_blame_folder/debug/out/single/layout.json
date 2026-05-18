@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/sheet_info.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/sheet_info.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/fragment_myday.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/fragment_myday.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/item_session.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/item_session.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/item_checklist.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/item_checklist.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/item_action.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/item_action.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/fragment_ritual.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/fragment_ritual.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/item_sequence.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/item_sequence.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/fragment_study.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/fragment_study.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/fragment_settings.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/fragment_settings.xml"
+    },
+    {
+        "merged": "com.ritualbuilder.app-mergeDebugResources-37:/layout/activity_main.xml",
+        "source": "com.ritualbuilder.app-main-40:/layout/activity_main.xml"
+    }
+]
