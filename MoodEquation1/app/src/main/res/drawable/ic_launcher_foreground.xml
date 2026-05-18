@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- M letterform -->
+    <path
+        android:fillColor="#F0EDE8"
+        android:pathData="M20,28 L20,80 L30,80 L30,52 L44,70 L58,52 L58,80 L68,80 L68,28 L58,28 L44,50 L30,28 Z"/>
+
+    <!-- pink equals top bar -->
+    <path
+        android:fillColor="#c47fa0"
+        android:pathData="M74,38 L94,38 L94,48 L74,48 Z"/>
+
+    <!-- purple equals bottom bar -->
+    <path
+        android:fillColor="#9090c8"
+        android:pathData="M74,58 L94,58 L94,68 L74,68 Z"/>
+
+    <!-- golden dot -->
+    <path
+        android:fillColor="#e09050"
+        android:pathData="M100,43m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+
+    <!-- teal dot -->
+    <path
+        android:fillColor="#80b0a0"
+        android:pathData="M100,65m-4,0a4,4 0,1 1,8 0a4,4 0,1 1,-8 0"/>
+
+</vector>

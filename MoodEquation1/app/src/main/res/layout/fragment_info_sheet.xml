@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@drawable/bg_bottom_sheet"
+    android:padding="24dp">
+
+    <View
+        android:layout_width="40dp"
+        android:layout_height="4dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="20dp"
+        android:background="@drawable/shape_handle"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="How it works"
+        android:textColor="@color/text_primary"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:layout_marginBottom="14dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Select up to 4 mood tiles from the grid below. Each mood carries a weight — an emotional tone, a texture, a temperature.\n\nWhen you press Compute, your selections blend into a unique emotional equation: a colour and a phrase for a feeling you might not have had words for before.\n\nThere are no wrong answers. Each combination is its own truth."
+        android:textColor="@color/text_secondary"
+        android:textSize="14sp"
+        android:lineSpacingMultiplier="1.6"
+        android:layout_marginBottom="24dp"/>
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btnCloseSheet"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:text="Got it"
+        android:textColor="@color/bg_dark"
+        app:backgroundTint="@color/accent_cream"
+        app:cornerRadius="14dp"/>
+
+</LinearLayout>
